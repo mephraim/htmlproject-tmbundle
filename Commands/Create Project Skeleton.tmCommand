@@ -40,7 +40,7 @@ __END__
 &lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"&gt;
 &lt;html&gt;
 &lt;head&gt;
-  &lt;link rel="stylesheet" href="/css/master.css" type="text/css" /&gt;
+  &lt;link rel="stylesheet" href="css/master.css" type="text/css" /&gt;
   &lt;script src="javascript/behavior.js" type="text/javascript" charset="utf-8"&gt;&lt;/script&gt;
 &lt;/head&gt;
 &lt;body&gt;
